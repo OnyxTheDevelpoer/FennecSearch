@@ -7,7 +7,7 @@
     <?php headerElem();?>
     <div class="container">
       <center>
-        <h1>Web Search</h1>
+        <h1>FennecSearch</h1>
         <form class="searchForm" action="search.php" method="GET">
           <input type="text" autocomplete="off" name="q" id="query"/>
           <div>
